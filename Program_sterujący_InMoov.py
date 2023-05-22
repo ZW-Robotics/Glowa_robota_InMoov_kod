@@ -232,7 +232,7 @@ def Aktualna_temperatura():
         Komunikat_głosowy(temperatura)
         Komunikat_głosowy("Stopni celsjusza")  
 
-#Definicja fukcji dodatkowego wątku programu.
+#Definicja funkcji dodatkowego wątku programu.
 def Ruch_szczęką():
     while True:
         
